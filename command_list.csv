@@ -1,0 +1,79 @@
+    1  pwd
+    2  git config --global user.name"Elena-Marchenko"
+    3  git config --get user.name
+    4  git config --global user.email Leawest91@gmail.com
+    5  git config --get user.email
+    6  git --version
+    7  clear
+    8  git clone 
+    9  pwd
+   10  ls
+   11  ls -l
+   12  git clone https://github.com/Elena-Marchenko/HW_10.git
+   13  ді -д
+   14  ls -l
+   15  ls -la
+   16  pwd
+   17  ls
+   18  cd HW_10
+   19  ls -l
+   20  ls -la
+   21  touch text_ignore.txt
+   22  ls -la
+   23  git status
+   24  git add.
+   25  ls -la
+   26  nano .gitignore
+   27  nano .gitignore
+   28  nano .gitignore
+   29  git status
+   30  git add.
+   31  git add
+   32  pwd
+   33  ls -la
+   34  git status
+   35  git add.
+   36  git add .
+   37  git commit -m "add text_ignore.txt"
+   38  git status
+   39  pwd
+   40  touch main_test.txt
+   41  ls -la
+   42  git add .
+   43  git commit -m "add main_test.txt"
+   44  git log -3
+   45  git status
+   46  git checkout -b develop
+   47  git branch
+   48  git status
+   49  touch develop_test.txt
+   50  git add .
+   51  git commit -m "add develop_test.txt"
+   52  git status
+   53  git log-4
+   54  git lod -4
+   55  git log -3
+   56  nano develop_test.txt
+   57  nano develop_test.txt
+   58  nano develop_test.txt
+   59  git status
+   60  git add .
+   61  git commit -m "editing file develop_test.txt"
+   62  git log -3
+   63  git checkout main
+   64  git merge develop
+   65  got status
+   66  git status
+   67  git log
+   68  pwd
+   69  cd /E/HW_10
+   70  cd /E/HW
+   71  pwd
+   72  sd WH_10
+   73  cd WH_10
+   74  pwd
+   75  cd HW_10
+   76  pwd
+   77  ls -la
+   78  git status
+   79  history > command_list.csv
